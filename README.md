@@ -31,6 +31,7 @@ This diagram shows the flow from raw data ingestion to reporting.
 ![Clinical Data Pipeline](clinical_pipeline_diagram.png)
 
 
+
 ##  Project Structure
 
 ##  Features
