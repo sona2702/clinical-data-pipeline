@@ -28,7 +28,7 @@ It demonstrates how to move raw patient data from CSV to a structured reporting 
 
 This diagram shows the flow from raw data ingestion to reporting.
 
-![Clinical Data Pipeline](clinical_pipeline_diagram.png)
+![clinical data pipeline](clinical_pipeline_diagram.png)
 
 
 
